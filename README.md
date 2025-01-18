@@ -1,4 +1,4 @@
-# Jam
+# JamLang
 ### The Jam Programming Language
 #### Rewrite #3 coming soon
 
